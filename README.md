@@ -1,4 +1,13 @@
 # tutorial-12
+# Context Diagram
+![alt text](<img/Context Diagram.png>)
+
+# Container Diagram
+
+
+# Deployment Diagram
+![alt text](<img/Deployment Diagram .png>)
+
 
 # Component Diagram
 ## Feature Sell
