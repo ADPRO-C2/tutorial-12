@@ -12,7 +12,6 @@
 # Deployment Diagram
 ![alt text](<img/Deployment Diagram .png>)
 
-
 # Component Diagram
 ## Feature Sell
 > Syifa Kaffa Billah - 2206816430
@@ -22,6 +21,10 @@
 ## Feature Buy
 > Jeslyn Theodora - 2206082026
 ![placeholder](img/Component%20Diagram%20Buy.png)
+
+## Feature User
+> Muhammad Mariozulfandy - 2206041404
+![placeholder](img/ComponentDiagramUser.png)
 
 ## Feature Topup
 > Raspati Mahatma Kurnia Dharmatmaja - 2106750244
@@ -35,12 +38,15 @@
 # Code Diagram
 ## Feature Sell
 > Syifa Kaffa Billah - 2206816430
-
 ![alt text](<img/Code Diagram Sell.png>)
 
 ## Feature Buy
 > Jeslyn Theodora - 2206082026
 ![placeholder](img/Code%20Diagram%20Buy.png)
+
+## Feature User
+> Muhammad Mariozulfandy - 2206041404
+![placeholder](img/CodeDiagramUser.png)
 
 # Risk of the Current Architecture
 
