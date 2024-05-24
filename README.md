@@ -3,7 +3,11 @@
 ![alt text](<img/Context Diagram.png>)
 
 # Container Diagram
+## Before
+![alt text](<img/Container Diagram (1).png>)
 
+## After
+![alt text](<img/Container Diagram3.png>)
 
 # Deployment Diagram
 ![alt text](<img/Deployment Diagram .png>)
