@@ -37,3 +37,12 @@
 ## Feature Buy
 > Jeslyn Theodora - 2206082026
 ![placeholder](img/Code%20Diagram%20Buy.png)
+
+# Risk of the Current Architecture
+
+# Why Risk Storming Technique is Important
+Risk Storming digunakan karena satu orang dapat <i>miss</i> beberapa bagian dari kode yang berupa risiko. Dengan menggunakan risk storming, seluruh kode dapat berulang kali di cek oleh orang berbeda dan dengan perspektif yang berbeda, sehingga kemungkinan suatu risiko tidak dilihat akan lebih kecil, dan semua developer juga bisa lebih mengerti kodenya diluar bagian mereka.
+Steps melakukan Risk Storming:
+1. Identification: Setiap partisipan mengidentifikasi secara individu bagian kode yang menurut mereka berupa risiko.
+2. Consensus: Diskusi diantara semua partisipan akan apa yang didapatkan dari step identification, sampai mencapai suatu consensus.
+3. Mitigation: Mencari cara untuk mitigasi risiko itu.
